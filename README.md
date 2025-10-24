@@ -27,6 +27,8 @@ LibrarySystem.cpp → main project file containing all logic
 
 Library_System.sql → an SQL schema representing the intended database structure for books, users, and librarians 
 
+LibrarySystem_ERD_schema.pdf → ERD and schema illustrate the table relationships
+
 👩‍💻 Author
 
 Lobna Ahmed
