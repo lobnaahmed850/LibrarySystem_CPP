@@ -25,6 +25,8 @@ Basic SQL (for creating tables based on schema only, no database connection)
 
 LibrarySystem.cpp → main project file containing all logic
 
+Library_System.sql → an SQL schema representing the intended database structure for books, users, and librarians 
+
 👩‍💻 Author
 
 Lobna Ahmed
